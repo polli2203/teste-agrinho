@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 body {
     font-family:  "Crimson Text";
-    background-color: #6eff6e;
+    background-color: #a7ff95;
     color: #262424;
     text-align: center;
     margin: 0;
@@ -9,7 +9,7 @@ body {
 }
 
 .cabecalho {
-    background-color: #a3d9a5;
+    background-color: #a7ff95;
     padding: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
