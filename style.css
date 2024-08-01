@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #9bd69b;
+    color: #262424;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #a3d9a5;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.titulo {
+    color: #226424;
+}
+
+.escolhas {
+    padding: 20px;
+}
+
+.opcao {
+    background-color: #4CAF50;
+    color: #285a31;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.opcao:hover {
+    background-color: #ade1b0;
+}
+
+.descricao {
+    background-color: #91ffa9;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
