@@ -34,11 +34,11 @@ body {
 }
 
 .opcao:hover {
-    background-color: #b6ff98;
+    background-color: #6ee73e;
 }
 
 .descricao {
-    background-color: #58ce4d;
+    background-color: #a1fa66;
     border: 1px solid #000000;
     border-radius: 20px;
     padding: 60px;
